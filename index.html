@@ -7,7 +7,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            min-height: 90vh;
+            min-height: 95vh;
         }
     </style>
     <title>lmamo</title>
@@ -16,7 +16,7 @@
 <body class="center-img" style="background-color:#36393F;">
     <img id="msg">
     <script>
-        const IMAGES = 10; // number of images
+        const IMAGES = 11; // number of images
         const randomImage = Math.floor(Math.random() * IMAGES);
         const fileExt = (randomImage == 8) ? "gif" : "png";
         document.getElementById("msg").src = `./images/msg/${randomImage}.${fileExt}`;
