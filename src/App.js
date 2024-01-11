@@ -114,11 +114,7 @@ function App() {
                 <b>ABOUT ME</b>
               </InnerHeading>
               <InnerBody variant="body2">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-                lorem libero, gravida at ultricies sed, convallis in nulla.
-                Fusce egestas sem sed dignissim posuere. Nam gravida dolor
-                tortor, id auctor elit ullamcorper eget. Integer rhoncus metus
-                eget convallis fermentum. 👺
+                Involved in all sorts of internet and creative things, from YouTube to programming to music and motion graphics. Formerly head of Tailosive Music, where I managed and curated all social media content and created visuals and lyric videos with Adobe After Effects. Right now, I'm developing all sorts of things with JavaScript and the cloud. You can find my public projects on GitHub. Thanks for visiting 🐸
               </InnerBody>
               <InnerHeading variant="body2">
                 <b>EXTERNAL LINKS</b>
